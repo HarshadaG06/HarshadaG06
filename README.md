@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi! <img src="Media/wave.gif" width="30px" height="29px">I'm Harshada</h1>
 
-I'm a 23-year-old software developer who wants to solve as many problems as possible with the help of technology.<br>I love learning and end up piling 100 different things on my plate so don't be surprised to find a mixed variety of repos.<br>I'm looking forward to contributing more to the open-source world this year.<br>🛠 Sharpening my DSA skills<br>⚡I’m currently learning ReactJs, NodeJs and SpringBoot<br>🗨 Reach out on gundecha.harshada@gmail.com<br>🙈 I have a lot of work-in-progress repos that I don't want to make public yet
+Welcome to my GitHub repository! As a 23-year-old software developer, I'm interested in leveraging technology for problem-solving and innovation. <br> With an insatiable appetite for learning, I tend to tackle diverse projects, leading to a mixed variety of repositories. <br> This year, I aim to significantly contribute to the open-source community. Let's collaborate and build a brighter future together!🚀.<br>🛠 Sharpening my DSA skills<br>⚡I’m currently learning ReactJs, NodeJs and SpringBoot<br>🗨 Reach out on gundecha.harshada@gmail.com<br>🙈 I have a lot of work-in-progress repos that I don't want to make public yet
 <img width="45%" align="right" alt="Vector Banner" src= "Media/Girl.png" />
 
 ## 🌐 Socials:
